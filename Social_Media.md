@@ -34,7 +34,8 @@ purposeless "hi" messages, &c. Thanks!
 Don't expect any content on these accounts; I just use them to watch and chat
 in others' streams.
 
-| Site        | Account                                     |
-| ----------- | ------------------------------------------- |
-| **Picarto** | [artiemog](https://picarto.tv/artiemog)     |
-| **Twitch**  | [artiemog](https://www.twitch.tv/artiemog/) |
+| Site        | Account                                                                 |
+| ----------- | ----------------------------------------------------------------------- |
+| **Picarto** | [artiemog](https://picarto.tv/artiemog)                                 |
+| **Twitch**  | [artiemog](https://www.twitch.tv/artiemog/)                             |
+| **YouTube** | [Artemis Mog](https://www.youtube.com/channel/UCfNPiEnYfmfwwcqptMqferQ) |
