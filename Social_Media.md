@@ -31,7 +31,8 @@ purposeless "hi" messages, &c. Thanks!
 | **Vogons** | [artiemog](https://www.vogons.org/memberlist.php?mode=viewprofile&u=29164) |
 
 ## Video Streaming Services
-Don't expect anything here; I just use these to watch other people's streams.
+Don't expect any content on these accounts; I just use them to watch and chat
+in others' streams.
 
 | Site        | Account                                     |
 | ----------- | ------------------------------------------- |
