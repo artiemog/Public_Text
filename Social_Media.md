@@ -39,3 +39,6 @@ in others' streams.
 | **Picarto** | [artiemog](https://picarto.tv/artiemog)                                 |
 | **Twitch**  | [artiemog](https://www.twitch.tv/artiemog/)                             |
 | **YouTube** | [Artemis Mog](https://www.youtube.com/channel/UCfNPiEnYfmfwwcqptMqferQ) |
+
+# All Your Base
+are belong to us.
