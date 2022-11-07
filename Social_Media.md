@@ -8,6 +8,7 @@ please use one of the below contact methods to let me know.
 
 | Site            | Account                                                 |
 | --------------- | ------------------------------------------------------- |
+| **Cohost**      | [@artiemog](https://cohost.org/artiemog)                |
 | **FurAffinity** | [~artiemog](https://www.furaffinity.net/user/artiemog/) |
 | **Mastodon**    | [@artiemog@yiff.life](https://yiff.life/@artiemog)      |
 | **Reddit**      | [/u/artiemog](https://www.reddit.com/u/artiemog)        |
