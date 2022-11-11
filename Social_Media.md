@@ -4,7 +4,7 @@ address and Google account, which are not listed here, this list should be
 comprehensive.  If an account that appears to belong to me is not listed here,
 please use one of the below contact methods to let me know.
 
-## "True" Social Media
+## Social Media
 
 | Site            | Account                                                 |
 | --------------- | ------------------------------------------------------- |
